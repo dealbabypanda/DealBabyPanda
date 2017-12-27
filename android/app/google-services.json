@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "172801131869",
+    "firebase_url": "https://deal-baby-panda.firebaseio.com",
+    "project_id": "deal-baby-panda",
+    "storage_bucket": "deal-baby-panda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172801131869:android:be2ceb3760584bf7",
+        "android_client_info": {
+          "package_name": "com.dealbabypanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172801131869-bbcmimhgg9uggg5hecmqg5958as87i7t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "172801131869-u81vqh8m1ut0jigke941bons7f19dvue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dealbabypanda",
+            "certificate_hash": "ce64f8c2109e22aab6edd43e0e51dd1d916a7c2d"
+          }
+        },
+        {
+          "client_id": "172801131869-5m3ag0rdaq6domu1nnskcfvon0937cm8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "172801131869-4bh43egqq6f853prgk3ah31jqguqcvlf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "172801131869-1mblivisel366amt189grm1lac6rfkg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2bRVeJ4iAOm79Z0Cn_nC7Of8b75v4U4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172801131869-bbcmimhgg9uggg5hecmqg5958as87i7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
